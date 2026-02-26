@@ -135,13 +135,11 @@ This demonstrates correct signed overflow detection in two’s complement arithm
     constraints.xdc
 
 /docs
-    block_diagram.png
+    output.png
 
 README.md
 ```
-## Hardware Output Screenshot
 
-See docs/hardware_output.png
 ---
 
 ## Future Improvements
